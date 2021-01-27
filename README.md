@@ -1,4 +1,10 @@
-### Hi there 👋
+### 👋 Hi, I'm Will
+
+ I like to make stuff for the web. 
+
+😄 Pronouns: he/him
+🌐 Check out my [website!](https://willmartin.dev) 
+🐦 Or maybe my [Twitter?](https://twitter.com/willmartindev) 
 
 <!--
 **willmartindev/willmartindev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
