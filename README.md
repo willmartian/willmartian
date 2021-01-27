@@ -4,7 +4,7 @@
 
 😄 Pronouns: he/him
 
-🌐 Check out my [website!](https://willmartin.dev) 
+🌐 Check out my [website!](https://willmartin.dev) (forthcoming... right now it just redirects to LinkedIn hehe)
 
 🐦 Or maybe my [Twitter?](https://twitter.com/willmartindev) 
 
