@@ -3,7 +3,9 @@
  I like to make stuff for the web. 
 
 😄 Pronouns: he/him
+
 🌐 Check out my [website!](https://willmartin.dev) 
+
 🐦 Or maybe my [Twitter?](https://twitter.com/willmartindev) 
 
 <!--
