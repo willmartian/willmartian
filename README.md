@@ -8,6 +8,10 @@
 
 🐦 Or maybe my [Twitter?](https://twitter.com/willmartindev) 
 
+---
+
+💬 Latest blog post: [Conditionally Rendering JavaScript Templates in Eleventy](https://willmartin.dev/posts/conditional-rendering-eleventy/) 
+
 <!--
 **willmartindev/willmartindev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
