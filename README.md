@@ -6,7 +6,9 @@
 
 🌐 Check out my [website!](https://willmartin.dev)
 
-🐦 Or maybe my [Twitter?](https://twitter.com/willmartindev) 
+🐦 Or maybe my [Twitter.](https://twitter.com/willmartindev) 
+
+ᕕ( ᐛ )ᕗ ...[Reddit?](https://www.reddit.com/user/willmartindev)
 
 ---
 
