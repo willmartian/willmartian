@@ -8,8 +8,6 @@
 
 🐦 Or maybe my [Twitter.](https://twitter.com/willmartindev) 
 
-ᕕ( ᐛ )ᕗ ...[Reddit?](https://www.reddit.com/user/willmartindev)
-
 ---
 
 💬 Latest blog post: [Conditionally Rendering JavaScript Templates in Eleventy](https://willmartin.dev/posts/conditional-rendering-eleventy/) 
