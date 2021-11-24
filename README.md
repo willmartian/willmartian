@@ -8,7 +8,7 @@
 
 ---
 
-💬 Latest blog post: [Conditionally Rendering JavaScript Templates in Eleventy](https://willmartin.dev/posts/conditional-rendering-eleventy/) 
+💬 Latest blog post: [Dynamic JAMStack with Stencil and Supabase](https://willmartian.com/posts/stencil-jamstack-supabase/) 
 
 <!--
 **willmartindev/willmartindev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
