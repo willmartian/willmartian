@@ -2,25 +2,10 @@
 
  I like to make stuff for the web. 
 
-😄 Pronouns: he/him
+😄 Pronouns: he/they
 
 🌐 Check out my [website!](https://willmartian.com)
 
 ---
 
-💬 Latest blog post: [Dynamic JAMStack with Stencil and Supabase](https://willmartian.com/posts/stencil-jamstack-supabase/) 
-
-<!--
-**willmartindev/willmartindev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💬 Latest blog post: [Mastodon is like email](https://willmartian.com/posts/mastodon-is-like-email/) 
